@@ -1,5 +1,7 @@
 node_modules/
 .expo/
+.vscode/*
+.expo-shared/*
 npm-debug.*
 *.jks
 *.p8
@@ -15,3 +17,4 @@ web-build/
 
 #envs
 .env
+
